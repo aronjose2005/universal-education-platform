@@ -1,0 +1,14 @@
+torch==2.4.1
+transformers==4.44.2
+whisper-openai==1.0.0
+pysyft==0.9.1
+qiskit==1.2.4
+qiskit-aer==0.15.1
+numpy==1.26.4
+nltk==3.9.1
+spacy==3.7.6
+requests==2.32.3
+google-cloud-storage==2.18.2
+kubernetes==30.0.0
+docker==7.1.0
+pytest==8.3.3
